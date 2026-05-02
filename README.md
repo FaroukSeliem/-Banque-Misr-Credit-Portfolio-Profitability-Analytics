@@ -1,0 +1,2 @@
+# -Banque-Misr-Credit-Portfolio-Profitability-Analytics
+This project presents an end-to-end banking analytics solution developed for Banque Misr, one of Egypt's leading financial institutions. The dashboard was built to investigate a critical business problem: despite consistent growth in customer base and loan portfolio volume, net annual profit remained stagnant and showed no proportional increase 
